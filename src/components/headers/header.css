@@ -1,0 +1,15 @@
+.header{
+    background-color: rgba(182, 182, 182, 0.719);
+}
+.header ul{
+    list-style: none;
+}
+.header ul li{
+    margin: 10px;    
+}
+
+.header ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}

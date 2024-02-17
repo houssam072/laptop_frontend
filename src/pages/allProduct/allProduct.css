@@ -1,0 +1,28 @@
+.head-card{
+    background-image: url(../../components/images/laptop-wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+    margin: 0 5%;
+}
+.avds_xl_content {
+    width: 100%;
+    height: 100%;
+    background: rgba(82, 82, 82, 0.5);
+    padding: 100px;
+
+}
+.content{
+    position: relative;
+}
+.dot{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: orange;
+    margin: auto;
+    position: absolute;
+    top: 25px;
+    right: 100px;
+}

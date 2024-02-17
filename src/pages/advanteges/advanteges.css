@@ -1,0 +1,38 @@
+.advanteges{
+    margin-top: 5%;
+}
+
+.advanteges .advant{
+    text-align: center;
+    height: 250px;
+    width: 30%;
+}
+
+.advanteges .advant h2{
+    border-bottom: 2px solid orange;
+    padding: 10px;
+    width: 70%;
+    margin:  15px auto;
+    
+}
+.article{
+    text-align: center;
+    padding: 10%;
+}
+
+.article h1 span{
+    color: orange;
+}
+.article h2 a{
+    text-decoration: none;
+    color: rgb(175, 175, 175);
+    border: 2px solid orange;
+    padding: 10px 15px;
+    transition: 2s;
+}
+
+.article h2:hover a{
+    
+    color: orange;
+    border: 2px solid rgb(175, 175, 175);
+}
